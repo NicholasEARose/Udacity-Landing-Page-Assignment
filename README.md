@@ -1,10 +1,6 @@
-#
+# Udacity Landing Page Assignment - (My Favorite Records)
 
-Udacity Landing Page Assignment - (My Favorite Records)
-
-#####
-
-This project is a part of Udacity Front End Developer Nanodegree program.
+##### This project is a part of Udacity Front End Developer Nanodegree program.
 
 ## Description
 
